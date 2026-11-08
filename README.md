@@ -7,7 +7,7 @@ daily one day, little DSA, little practice.
 - 02 - print average marks
 - 03 - area of square
 - 04 - total cost 3 items
-- 05 - SI caculator
+- 05 - SI calculator
 - 06 - area of circle
 
 Language : C++
