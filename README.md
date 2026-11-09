@@ -11,7 +11,7 @@ daily one day, little DSA, little practice.
 - 06 - area of circle
 
 ## Day-02
-- 01 - Temperator Convertor (Fahrenheit to celcius)
+- 01 - Temperature Convertor (Fahrenheit to celcius)
 
 
 Language : C++
